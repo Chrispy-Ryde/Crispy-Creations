@@ -1,0 +1,4 @@
+﻿  WRECKEDANGLE.cpp
+C:\Users\Christian S. Pryde\source\repos\WRECKEDANGLE\WRECKEDANGLE\WRECKEDANGLE.cpp(83,83): warning C4305: 'argument': truncation from 'int' to 'const char'
+C:\Users\Christian S. Pryde\source\repos\WRECKEDANGLE\WRECKEDANGLE\WRECKEDANGLE.cpp(83,58): warning C4309: 'argument': truncation of constant value
+  WRECKEDANGLE.vcxproj -> C:\Users\Christian S. Pryde\source\repos\WRECKEDANGLE\Debug\WRECKEDANGLE.exe
